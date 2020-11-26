@@ -1,0 +1,28 @@
+* {
+    font-family: monospace;
+}
+h1 {
+    color: royalblue;
+    text-align: center;
+}
+header{
+    text-align: center;
+    color: maroon;
+    font-size: 40px;
+    font-weight: bold;
+}
+thead {
+
+    background-color: rosybrown;
+    color: black;
+
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    align: center;
+   border:  4px solid blueviolet;
+}
+
+  
